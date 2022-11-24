@@ -1,1 +1,1 @@
-# intro-to-ml-22-23
+# DDSC course: Introduction to Machine Learning (22-23)
