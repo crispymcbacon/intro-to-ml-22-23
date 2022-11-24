@@ -1,2 +1,2 @@
-### DDSC Course a.y. 22-23
+### DDSC Course 2022-2023
 # Introduction to Machine Learning
